@@ -1,5 +1,13 @@
 # AST-2018-WT-Exercises
-Raghuvir Shirodkar's repository for AST assignments, WS 2018/19
+Repository for AST assignments, WS 2018/19
+
+## Team Members-
+
+1. Raghuvir Shirodkar
+2. Mihir Mulye 
 
 ### Revision 1 - 11.11.2018 - 09:05 AM
 Changes for Exercise 1, questions 3 and 4, added to repository.
+
+### Revision 2 - 13.11.2018 - 10.39 AM
+Final Upload 
