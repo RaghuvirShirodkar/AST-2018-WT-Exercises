@@ -14,3 +14,7 @@ Final Upload
 
 ### Revision 3 - 17.11.2018 - 5.25 PM
 Changes for Exercise05 and 06 added to the repository
+
+### Revision 4 - 19.11.2018 - 2.55 PM
+Final Upload for Assignment#02
+
